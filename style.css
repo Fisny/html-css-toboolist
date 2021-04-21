@@ -72,12 +72,14 @@ span{
     color: lime;
     border-radius: 50%;
     text-align: center;
+    border: 1px solid lime;
 }
 
 .cross{
     color: red;
     border-radius: 50%;
     text-align: center;
+    border: 1px solid red;
 }
 
 li{
